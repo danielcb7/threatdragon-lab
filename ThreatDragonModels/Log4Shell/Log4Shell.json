@@ -1,0 +1,27 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "Log4Shell",
+    "owner": "danielcb7",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Log4Shell Threat Model",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.5.0",
+        "cells": [],
+        "description": "Threat Model of Log4Shell"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
